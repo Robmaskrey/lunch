@@ -1,0 +1,17 @@
+body {
+  overflow-x: hidden;
+}
+
+.extra-margin{
+  margin: 50px 0px;
+}
+
+footer {
+  padding: 25px;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  display: block;
+  margin: 20px auto;
+}
